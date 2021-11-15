@@ -1,4 +1,4 @@
-# Purpose
+# Bank
 Bank is a Google Sheet for recording a bank balance. Typically (in the US) children under the age of 13 cannot open a traditional bank account. This application is designed for parents to track their kids' savings like a real bank would in order to teach them how bank accounts work, e.g. deposits, withdrawals, interest.
 
 ## Intended Use
