@@ -1,7 +1,7 @@
 # Getting Started
 
 ## Creating your Bank
-1. Visit https://docs.google.com/spreadsheets/d/1SSGxm-jwUKCYK3TkoIbb4BwBngnvPXHUauI3tYBkaPw/edit?usp=sharing
+1. Visit https://docs.google.com/spreadsheets/d/1Nf8pPSalVTI3WOhHuqSUUYmU_DtZWOIk3NRTRdexcxM/edit?usp=sharing
 2. Click on File -> Make a copy
 3. Give it a name i.e. "My Kid's Bank Account" and save it to your own Google Drive.
 4. If it doesn't open in a new tab, launch it from your Google Drive.
