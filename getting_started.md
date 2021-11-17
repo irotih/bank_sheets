@@ -12,8 +12,18 @@ The code for the Bank application is separate from the Google Sheets itself. Thi
 1. In the Bank sheet, click on any of the blue rectangular buttons (e.g. `Archive History`).
 2. At the top you should see that a script is running. Give it a few seconds.
 3. You will get a popup saying "Authorization Required". Click `Continue`.
+
+    ![bank_perm_01_auth_req.jpg](https://github.com/irotih/bank_assets/raw/main/bank_perm_01_auth_req.jpg)
 4. You will get a popup saying "Choose an account". Choose the Google account that has the Bank Google Sheets.
+
+    ![bank_perm_02_choose_acct.jpg](https://github.com/irotih/bank_assets/raw/main/bank_perm_02_choose_acct.jpg)
+
 5. You will get a popup saying "Google hasn't verified this app".
     1. Click the `Show Advanced` link near the bottom.
     2. Click the `Go to bank (unsafe)` link further down.
+
+    ![bank_perm_03_warning.jpg](https://github.com/irotih/bank_assets/raw/main/bank_perm_03_warning.jpg)
+
 6. Finally, you will get a popup saying "bank wants to access your Google account". Click `Allow`.
+
+    ![bank_perm_04_grant_privs.jpg](https://github.com/irotih/bank_assets/raw/main/bank_perm_04_grant_privs.jpg)
