@@ -2,7 +2,7 @@
 Bank is a Google Sheet that imitates a bank account. This application is designed for parents to track their kids' savings like a real bank would in order to teach them how bank accounts work, e.g. deposits, withdrawals, interest.
 
 ## Intended Use
-As a parent and/or legal guardian, deposit your childrens' money into your own savings account. Record the deposits in the Bank application to keep track of how much money actually belongs to your children. Whenever your child wants to spend their money, record the withdrawal in Bank. Keep the Interest Rate (APY) field updated in the application so that it also generates the monthly interest payments. Interest is compounded daily and deposited at the end of each month.
+As a parent and/or legal guardian, deposit your child's money into your own savings account. Record the deposits in the Bank application to keep track of how much money actually belongs to them. Whenever your child wants to spend their money, record the withdrawal in Bank. Keep the Interest Rate (APY) field updated in the application so that it also generates the monthly interest payments. Interest is compounded daily and deposited at the end of each month.
 
 See [Usage](./usage.md)
 
