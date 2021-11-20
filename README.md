@@ -4,6 +4,8 @@ Bank is a Google Sheet for recording a bank balance. Typically (in the US) child
 ## Intended Use
 As a parent and/or legal guardian, you would childrens' earnings into your own savings account. You would then use the Bank application to keep track of how much money actually belongs to your children. Whenever your child wants to spend their money, record the withdrawal in Bank. Keep the Interest Rate (APY) field updated in the application so that it also generates the monthly interest payments. Interest is compounded daily and deposited at the end of each month.
 
+See [Usage](./usage.md)
+
 ## Getting Started
 [Getting Started Instructions](./getting_started.md)
 
