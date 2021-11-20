@@ -8,7 +8,7 @@ As a parent and/or legal guardian, you would childrens' earnings into your own s
 [Getting Started Instructions](./getting_started.md)
 
 ## Trust
-If you follow the above instructions, you will see that Google wants you to really make sure you can trust this application. If you know me, you can trust it. If you don't know me, you shouldn't trust it. Visit my other repo [bank_apps_script](https://github.com/irotih/bank_apps_script) to download the source code. You can read through it if you like and you can also create your own bank library instead of using mine (I'll publish instructions in the future).
+If you follow the above instructions, you will see that Google wants you to really make sure you can trust this application. If you know me, you can trust it. If you don't know me, you shouldn't trust it. Visit my other repo [bank_apps_script](https://github.com/michael-cheung-nz2/bank_apps_script) to download the source code. You can read through it if you like and you can also create your own bank library instead of using mine (I'll publish instructions in the future).
 
 ## Upgrading
 There is currently no way to perform upgrades on the Bank application. If a new version is released, just copy the new version and copy all the transactions from the old Sheet to the new one.
